@@ -1,6 +1,6 @@
 # News Clustering Analysis
 
-This repository contains my solutions to the **AI Engineers Notebooks**, originally created (https://github.com/larawehbe/TheAIEngineers-Notebooks). These notebooks focus on various machine learning, data preprocessing, and clustering techniques. I have worked through the notebooks independently to enhance my understanding and skills in these areas.
+My repository (News-Clustering) contains my solutions to the **AI Engineers Notebooks**, originally created (https://github.com/larawehbe/TheAIEngineers-Notebooks). These notebooks focus on various machine learning, data preprocessing, and clustering techniques. I have worked through the notebooks independently to enhance my understanding and skills in these areas.
 
 ## Features
 - **Text Preprocessing**: Tokenization, stemming, and stopword removal.
